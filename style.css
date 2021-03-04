@@ -1,0 +1,27 @@
+.card {
+    color:rgba(235, 113, 14, 0.753);
+    background-color: rgba(46, 173, 145, 0.671);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.432);
+    transition: 0.3s;
+    border-radius: 15px 15px 15px 15px;
+    width: 50%;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.671)
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.title {
+    background-color: rgba(235, 113, 14, 0.753);
+    color: rgb(0, 0, 0);
+    font-size: 64px;
+}
+
+li {
+    font-size: 32px;
+}
